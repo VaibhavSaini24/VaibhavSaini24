@@ -71,6 +71,3 @@ I love automating workflows, contributing to secure code, and building innovativ
 > *“Securing tomorrow, one commit at a time.”* 🚀
 
 ```
-**Tip:**  
-- Replace `your-linkedin`, `your-twitter`, and `your.email@example.com` with your actual profile links and email.  
-- You can further personalize the README by adding project highlights, certifications, or blog links.
