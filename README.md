@@ -69,5 +69,3 @@ I love automating workflows, contributing to secure code, and building innovativ
 ---
 
 > *“Securing tomorrow, one commit at a time.”* 🚀
-
-```
