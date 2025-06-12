@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhav Saini! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E324&random=true&width=434&lines=Hey!+I+am+Vaibhav+Saini+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!  
 I'm a passionate developer with a keen interest in **Cybersecurity**, **DevOps**, and **Open Source**.  
